@@ -114,6 +114,27 @@ main {
     color: #ffffff;
 }
 
+#reasons {
+    width: 90%;
+    margin: auto;
+}
+
+#reaons > h2 { 
+    color: #252525;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 280%;
+
+}
+
+#benefits {
+
+}
+
+#benefits h3 {
+    text-transform: capitalize;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;

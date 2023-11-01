@@ -26,6 +26,11 @@ h1, h2, h3 {
     color: #252525;
 }
 
+/* Hide heading so doesn't crowd page but still appears to web pages */
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;

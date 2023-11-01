@@ -114,26 +114,33 @@ main {
     color: #ffffff;
 }
 
+/* Reasons section */
 #reasons {
     width: 90%;
-    margin: auto;
+    margin: 20px auto;
 }
 
-#reaons > h2 { 
+p {
+    padding: 0 20px;
+}
+section > h2 { 
     color: #252525;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin: 20px 20px;
     font-size: 280%;
-
+    text-align: center;
 }
 
-#benefits {
-
+#benefits div {
+    line-height: 20px;
+    margin-bottom: 20px;
 }
 
-#benefits h3 {
-    text-transform: capitalize;
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
 }
+
+
 
 /* Footer */
 #social-networks {
